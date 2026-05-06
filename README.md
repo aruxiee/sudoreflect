@@ -1,5 +1,5 @@
 
-# sudoreflect: Credential Harvester for Sudo
+# 🪞 sudoreflect: Credential Harvester for Sudo
 Post-exploitation tool for **unelevated shells**. Exploits Linux environment precedence to intercept `sudo` authentication attempts. Captures cleartext passwords by masquerading as the legitimate `sudo` binary.
 
 ⚠️ **Please Note:** This project is strictly for **Educational and Authorized Penetration Testing**. I am not responsible for any of the shenanigans you guys pull.
