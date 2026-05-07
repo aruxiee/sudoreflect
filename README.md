@@ -60,3 +60,7 @@ The console automates the entire attack and cleanup chain.
 *   **Dynamic Prompting**: You can adjust the script to detect the user's locale and display the `[sudo] password for...` prompt in different languages (e.g. French, German, Hindi) for compatibility.
 
 ---
+
+<p align="center">
+  With ❤️ by <b>Aradhya</b>
+</p>
